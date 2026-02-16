@@ -4,5 +4,6 @@ public class Main {
     static void main() {
         System.out.println("Staging area");
         System.out.println("Commit - 3");
+        System.out.println("Commit - 4");
     }
 }
